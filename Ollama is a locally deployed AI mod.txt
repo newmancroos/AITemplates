@@ -1,0 +1,10 @@
+Ollama is a locally deployed AI model runner, designed to allow users to download and execute large language models (LLMs) directly on their personal computer, such as a MacBook or Windows machine.Mar 24, 2025
+
+
+
+
+
+GitHub token
+
+
+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
